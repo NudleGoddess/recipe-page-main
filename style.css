@@ -1,0 +1,159 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    margin: 20px;
+}
+
+.container {
+    padding: 20px 50px;
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+img {
+    width: 600px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+}
+
+p {
+    color: hsl(24, 5%, 18%);
+    opacity: 90%;
+}
+
+.recipe-paragraph {
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: hsl(24, 5%, 18%);
+}
+
+.prep-time-div {
+    margin: 35px 0;
+    padding: 8px 25px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 15px;
+}
+
+h4 {
+    font-family: "Outfit", sans-serif;
+    color: hsl(332, 51%, 32%);
+}
+
+ul,
+ol {
+    font-family: "Outfit", sans-serif;
+    line-height: 2.2;
+    opacity: 90%;
+    color: hsl(24, 5%, 18%);
+}
+
+h3 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: hsl(14, 45%, 36%);
+}
+
+hr {
+    color: hsla(32, 10%, 34%, 0.252);
+    width: 100%;
+    margin: 40px 0;
+    opacity: 20%;
+    border: solid 1px;
+}
+
+li {
+    padding: 0 15px;
+}
+
+.prep-time-list {
+    color: hsl(332, 51%, 32%);
+}
+
+span {
+    color: hsl(24, 5%, 18%);
+    font-weight: 400;
+}
+
+.Ingredients-list,
+.Instructions-list {
+    color: hsl(14, 45%, 36%);
+    font-weight: 800
+}
+
+.Nutrition-div {
+    font-family: "Outfit", sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border-bottom: solid 1px;
+    width: 100%;
+    border-color: hsla(32, 10%, 34%, 0.252);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+strong {
+    font-weight: 800;
+    color: hsl(14, 45%, 36%);
+    float: right;
+    padding-right: 200px;
+}
+
+td {
+    height: 40px;
+    vertical-align: center;
+}
+
+.no-border-table {
+    margin-bottom: 20px;
+    border: none;
+}
+
+.attribution {
+    margin-top: 20px;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+}
+
+a:hover {
+    color: hsl(14, 45%, 36%);
+}
+
+a:active {
+    color: hsl(14, 45%, 36%);
+}
+
+a:link {
+    color: hsl(332, 51%, 32%);
+}
+
+a:visited {
+    color: hsl(332, 51%, 32%);
+}
+
+a:active {
+    color: hsl(14, 45%, 36%);
+}
+
+th {
+    font-weight: 600;
+    opacity: 70%;
+    padding-left: color: hsl(24, 5%, 18%);
+}
+
+.no-border-TH {
+    padding-left: 10px;
+}
